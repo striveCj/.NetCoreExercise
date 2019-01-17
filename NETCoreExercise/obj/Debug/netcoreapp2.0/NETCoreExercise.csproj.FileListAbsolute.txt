@@ -1,0 +1,11 @@
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.deps.json
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.runtimeconfig.json
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.runtimeconfig.dev.json
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.dll
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.pdb
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.csprojResolveAssemblyReference.cache
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.csproj.CoreCompileInputs.cache
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.AssemblyInfoInputs.cache
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.AssemblyInfo.cs
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.dll
+D:\git\NETCoreExercise\NETCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.pdb

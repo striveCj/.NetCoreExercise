@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  netcoreexercise:
+    image: netcoreexercise
+    build:
+      context: .
+      dockerfile: NETCoreExercise\Dockerfile
