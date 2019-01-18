@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NETCoreExercise.Core.Base
+namespace NETCoreExercise.Model.Base
 {
     public class BaseEntity
     {

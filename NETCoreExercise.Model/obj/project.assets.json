@@ -207,16 +207,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "NETCoreExercise.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "compile": {
-          "bin/placeholder/NETCoreExercise.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NETCoreExercise.Core.dll": {}
-        }
       }
     }
   },
@@ -684,17 +674,11 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "NETCoreExercise.Core/1.0.0": {
-      "type": "project",
-      "path": "../NETCoreExercise.Core/NETCoreExercise.Core.csproj",
-      "msbuildProject": "../NETCoreExercise.Core/NETCoreExercise.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0",
-      "NETCoreExercise.Core >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -704,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.Model\\NETCoreExercise.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.Model\\NETCoreExercise.Model.csproj",
       "projectName": "NETCoreExercise.Model",
-      "projectPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.Model\\NETCoreExercise.Model.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.Model\\NETCoreExercise.Model.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.Model\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,11 +710,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.Core\\NETCoreExercise.Core.csproj": {
-              "projectPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.Core\\NETCoreExercise.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

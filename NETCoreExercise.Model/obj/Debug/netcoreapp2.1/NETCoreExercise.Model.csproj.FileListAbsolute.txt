@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\bin\Debug\netcoreapp2.1\NETCoreExercise.Model.deps.json
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\bin\Debug\netcoreapp2.1\NETCoreExercise.Model.dll
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\bin\Debug\netcoreapp2.1\NETCoreExercise.Model.pdb
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.dll
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.Model\obj\Debug\netcoreapp2.1\NETCoreExercise.Model.pdb

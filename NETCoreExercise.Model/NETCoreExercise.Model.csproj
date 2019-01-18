@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NETCoreExercise.Core\NETCoreExercise.Core.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Dto\" />
   </ItemGroup>
 

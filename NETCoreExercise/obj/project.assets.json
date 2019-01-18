@@ -12922,11 +12922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
       "projectName": "NETCoreExercise",
-      "projectPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.DAL\\NETCoreExercise.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.DAL\\NETCoreExercise.DAL.csproj",
       "projectName": "NETCoreExercise.DAL",
-      "projectPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.DAL\\NETCoreExercise.DAL.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.DAL\\NETCoreExercise.DAL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Downloads\\NETCoreExercise\\NETCoreExercise\\NETCoreExercise.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

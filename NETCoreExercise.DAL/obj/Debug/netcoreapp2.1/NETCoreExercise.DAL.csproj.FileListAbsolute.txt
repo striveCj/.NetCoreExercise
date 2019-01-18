@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\bin\Debug\netcoreapp2.1\NETCoreExercise.DAL.deps.json
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\bin\Debug\netcoreapp2.1\NETCoreExercise.DAL.dll
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\bin\Debug\netcoreapp2.1\NETCoreExercise.DAL.pdb
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\obj\Debug\netcoreapp2.1\NETCoreExercise.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\obj\Debug\netcoreapp2.1\NETCoreExercise.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\obj\Debug\netcoreapp2.1\NETCoreExercise.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\obj\Debug\netcoreapp2.1\NETCoreExercise.DAL.dll
+C:\Users\Administrator\Source\Repos\striveCj\.NetCoreExercise\NETCoreExercise.DAL\obj\Debug\netcoreapp2.1\NETCoreExercise.DAL.pdb

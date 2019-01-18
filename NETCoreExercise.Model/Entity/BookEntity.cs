@@ -1,4 +1,4 @@
-﻿using NETCoreExercise.Core.Base;
+﻿using NETCoreExercise.Model.Base;
 
 namespace NETCoreExercise.Model.Entity
 {
