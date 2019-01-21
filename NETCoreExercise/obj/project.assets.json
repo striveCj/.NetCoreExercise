@@ -4746,6 +4746,29 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "NETCoreExercise.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "NETCoreExercise.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NETCoreExercise.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NETCoreExercise.Core.dll": {}
+        }
+      },
+      "NETCoreExercise.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NETCoreExercise.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NETCoreExercise.Model.dll": {}
+        }
       }
     }
   },
@@ -12907,12 +12930,23 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "NETCoreExercise.Core/1.0.0": {
+      "type": "project",
+      "path": "../NETCoreExercise.Core/NETCoreExercise.Core.csproj",
+      "msbuildProject": "../NETCoreExercise.Core/NETCoreExercise.Core.csproj"
+    },
+    "NETCoreExercise.Model/1.0.0": {
+      "type": "project",
+      "path": "../NETCoreExercise.Model/NETCoreExercise.Model.csproj",
+      "msbuildProject": "../NETCoreExercise.Model/NETCoreExercise.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "NETCoreExercise.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12922,11 +12956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
       "projectName": "NETCoreExercise",
-      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\NETCoreExercise.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\striveCj\\.NetCoreExercise\\NETCoreExercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12944,7 +12978,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Administrator\\source\\repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.Core\\NETCoreExercise.Core.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\source\\repos\\striveCj\\.NetCoreExercise\\NETCoreExercise.Core\\NETCoreExercise.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

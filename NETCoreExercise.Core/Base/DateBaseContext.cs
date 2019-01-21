@@ -7,9 +7,9 @@ using System.Text;
 
 namespace NETCoreExercise.Core.Base
 {
-    public class BaseContext : DbContext
+    public class DateBaseContext : DbContext
     {
-        public BaseContext(DbContextOptions<BaseContext> options) : base(options)
+        public DateBaseContext(DbContextOptions<DateBaseContext> options) : base(options)
         {
 
         }
