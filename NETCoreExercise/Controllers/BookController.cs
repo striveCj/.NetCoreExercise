@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using NETCoreExercise.Core.Base;
 using NETCoreExercise.Model.Base;
 using NETCoreExercise.Model.Entity;
+using NETCoreExercise.Models;
 
 namespace NETCoreExercise.Controllers
 {
@@ -36,7 +37,7 @@ namespace NETCoreExercise.Controllers
             BookViewModel model = new BookViewModel();
             if (id.HasValue)
             {
-                Book book = context.Set<Book>().SingleOrDefault(c => c.Id == id.Value);
+                BookEntity book = _context.Set<BookEntity>().SingleOrDefault(c => c.Id == id.Value);
                 if (book != null)
                 {
                     model.Id = book.Id;
