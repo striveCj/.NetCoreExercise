@@ -13,3 +13,15 @@ C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\ob
 C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.deps.json
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.runtimeconfig.json
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.dll
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.Core.dll
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.Model.dll
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.Core.pdb
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.Model.pdb
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.csproj.CopyComplete
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\bin\Debug\netcoreapp2.0\NETCoreExercise.pdb
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.dll
+C:\Users\Administrator\source\repos\striveCj\.NetCoreExercise\NETCoreExercise\obj\Debug\netcoreapp2.0\NETCoreExercise.pdb
